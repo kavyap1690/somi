@@ -1,0 +1,2 @@
+# somi
+learning project
